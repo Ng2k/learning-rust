@@ -1,1 +1,0 @@
-/home/ng2k/Repositories/learning-rust/hello_world/target/debug/libhello_world.rlib: /home/ng2k/Repositories/learning-rust/hello_world/src/greetings.rs /home/ng2k/Repositories/learning-rust/hello_world/src/lib.rs
